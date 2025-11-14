@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["버터, 파르미지아노 레지아노, 면수를 넣어 만든 알프레도 소스 또는 이와 유사한 크림 기반의 소스를 사용하는 파스타 요리이다", " '느끼한 양식'이라고 하면 가장 먼저 떠오르는 메뉴이기도 하다.
+       "texts": ["알프레도 소스 또는 이와 유사한 크림 기반의 소스를 사용하는 파스타 요리이다", " '느끼한 양식'이라고 하면 가장 먼저 떠오르는 메뉴이기도 하다.
 ", "지역별 스타일 차이"],
        "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/852bfdb3627182aa05afa4a40d6f2c4d1.jpg"],
        "videos": ["https://www.youtube.com/watch?v=KIBZmn4KNXc"]
