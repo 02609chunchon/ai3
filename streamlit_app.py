@@ -74,11 +74,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/852bfdb3627182aa05afa4a40d6f2c4d1.jpg"],
        "videos": ["https://www.youtube.com/watch?v=KIBZmn4KNXc"]
      },
-}
 labels[1]: {
        "texts": ["이탈리아에서는 주로 포모도로 파스타라고 불린다", "토마토 베이스에 월계수잎, 올리브유등을 넣은 소스가 특징이다", "지역별_스타일_차이"],
        "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2019/03/03/fca1b1c8f05592f409b6fbe702e2112a1.jpg"],
        "videos": ["https://www.youtube.com/watch?v=258sV5v3O0Q"] }
+}
 # ======================
 # 유틸
 # ======================
