@@ -70,12 +70,16 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["알프레도_소스_또는_이와_유사한_크림_기반의_소스를_사용하는_파스타_요리이다", "느끼한_양식이라고_하면_가장_먼저_떠오르는_메뉴이기도_하다.", "지역별_스타일_차이"],
+       "texts": ["알프레도 소스 또는 이와 유사한 크림 기반의 소스를 사용하는 파스타 요리이다", "느끼한 양식이라고 하면 가장 먼저 떠오르는 메뉴이기도 하다.", "지역별 스타일 차이"],
        "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/852bfdb3627182aa05afa4a40d6f2c4d1.jpg"],
        "videos": ["https://www.youtube.com/watch?v=KIBZmn4KNXc"]
      },
 }
-
+labels[1]: {
+       "texts": ["이탈리아에서는 주로 포모도로 파스타라고 불린다", "토마토 베이스에 월계수잎, 올리브유등을 넣은 소스가 특징이다", "지역별_스타일_차이"],
+       "images": ["https://i.namu.wiki/i/i0taM2PBJ-n_tV_hlj8CMJJbv9VsVL5kE5LHoAikeFFfAZOyk1hUWDqXZFmcTbaZR-0sjl1fCI5que8pTL2JB4JIqxAdtSu8_IBinZKhDVDSH5qFdTDUdMrs1LwCy6l92mK2ESUYsRVjjvhTW0Vw1g.webp"],
+       "videos": ["https://www.youtube.com/watch?v=258sV5v3O0Q"]
+     },
 # ======================
 # 유틸
 # ======================
