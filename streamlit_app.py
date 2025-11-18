@@ -70,8 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["알프레도_소스_또는_이와_유사한_크림_기반의_소스를_사용하는_파스타_요리이다", "느끼한_양식이라고_하면_가장_먼저_떠오르는_메뉴이기도_하다.
-", "지역별_스타일_차이"],
+       "texts": ["알프레도_소스_또는_이와_유사한_크림_기반의_소스를_사용하는_파스타_요리이다", "느끼한_양식이라고_하면_가장_먼저_떠오르는_메뉴이기도_하다.", "지역별_스타일_차이"],
        "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2016/08/01/852bfdb3627182aa05afa4a40d6f2c4d1.jpg"],
        "videos": ["https://www.youtube.com/watch?v=KIBZmn4KNXc"]
      },
